@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://s3.amazonaws.com/video.udacity-data.com/topher/2018/October/5bbaed49_project-3-lesson/project-3-lesson.jpg" height="300" width="300" />
+<img src="assets/Generate-TV-Scripts.jpg" height="300" width="300" />
 <br />
 <h1>Generate TV Scripts</h1>
 </div>
