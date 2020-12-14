@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/Generate-TV-Scripts.jpg" width="300" />
+<img src="assets/generate-tv-scripts.jpg" width="300" />
 <br />
 <h1>Generate TV Scripts</h1>
 </div>
